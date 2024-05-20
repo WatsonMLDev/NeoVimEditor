@@ -240,6 +240,7 @@ require('lazy').setup({
   --
   --    For additional information see: https://github.com/folke/lazy.nvim#-structuring-your-plugins
   require "custom.plugins.copilot",
+  require "custom.plugins.nvim-tree",
 }, {})
 
 -- NOTE: You can change these options as you wish!
